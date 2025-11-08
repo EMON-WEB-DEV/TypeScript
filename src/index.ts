@@ -14,3 +14,4 @@ x= 23;
 
 let y : boolean= true;
 y = false;
+let z: unknown = "hello";
